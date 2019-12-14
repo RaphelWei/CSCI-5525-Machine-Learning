@@ -1,10 +1,10 @@
-In this homework, we are asked wo implement *Ridge Regression* and a 2-class *Logistic Regression*.
+In this homework, we are asked wo implement **Ridge Regression** and a 2-class **Logistic Regression**.
 ## Languages
 Python
 ## Packages/Libraries Allowed (**only** the following)
 + Numpy
 + Pandas
-+ Matpotlib
++ Matplotlib
 ## deliverable
 2 .ipynb files
 ## Options
