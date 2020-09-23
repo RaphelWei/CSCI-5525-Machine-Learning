@@ -1,4 +1,4 @@
-In this homework, we are asked wo implement **Ridge Regression** and a 2-class **Logistic Regression**.
+In this homework, we are asked wo implement **Ridge Regression** and a binary **Logistic Regression**.
 ## Languages
 Python
 ## Packages/Libraries Allowed (**only** the following)
@@ -8,4 +8,4 @@ Python
 ## deliverable
 2 .ipynb files
 ## Options
-You're recommended to finish the work in google colab, because you won't be worried about install packages.
+You're encouraged to finish the work in google colab, because you don't bother to install packages manually.
