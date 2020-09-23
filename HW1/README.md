@@ -1,4 +1,4 @@
-In this homework, we are asked wo implement **Ridge Regression** and a binary **Logistic Regression**.
+In this homework, we are asked to implement **Ridge Regression** and a binary **Logistic Regression**.
 ## Languages
 Python
 ## Packages/Libraries Allowed (**only** the following)
